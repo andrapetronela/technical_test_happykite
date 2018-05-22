@@ -1,5 +1,5 @@
 .about {
-  background-image: url(../img/about-bg.jpg);
+  background-image: url(about-bg.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -208,7 +208,7 @@ li::after {
 
 .help {
   height: 55rem;
-  background-image: url("../img/services-bg.jpg");
+  background-image: url("services-bg.jpg");
   background-size: cover;
   background-position: bottom; }
 
